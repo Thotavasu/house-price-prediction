@@ -6,6 +6,9 @@ Predict house sale prices using regression models and a production-style preproc
 ## Tech
 Python, Pandas, scikit-learn, Matplotlib/Seaborn, joblib
 
+## Model Artifacts
+Trained models (`.pkl` files) are not stored in the repository.
+
 ## How to run
 pip install -r requirements.txt  
 python src/01_clean_data.py  
